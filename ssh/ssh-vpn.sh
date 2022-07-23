@@ -17,10 +17,10 @@ MYIP=$(wget -qO- ipinfo.io/ip);
 akbarvpn="raw.githubusercontent.com/SophongVPN/Hello/main/ssh"
 
 # Link Hosting Kalian Untuk Xray
-akbarvpnn="raw.githubusercontent.com/SophongVPN/Hello/main/xray"
+#akbarvpnn="raw.githubusercontent.com/SophongVPN/Hello/main/xray"
 
 # Link Hosting Kalian Untuk Trojan Go
-akbarvpnnn="raw.githubusercontent.com/SophongVPN/Hello/main/trojango"
+#akbarvpnnn="raw.githubusercontent.com/SophongVPN/Hello/main/trojango"
 
 # Link Hosting Kalian Untuk Stunnel5
 akbarvpnnnn="raw.githubusercontent.com/SophongVPN/Hello/main/stunnel5"
@@ -400,16 +400,16 @@ wget -O portvlm "https://${akbarvpn}/portvlm.sh"
 wget -O wbmn "https://${akbarvpn}/webmin.sh"
 wget -O xp "https://${akbarvpn}/xp.sh"
 wget -O swapkvm "https://${akbarvpn}/swapkvm.sh"
-wget -O addvmess "https://${akbarvpnn}/addv2ray.sh"
-wget -O addvless "https://${akbarvpnn}/addvless.sh"
-wget -O addtrojan "https://${akbarvpnn}/addtrojan.sh"
+#wget -O addvmess "https://${akbarvpnn}/addv2ray.sh"
+#wget -O addvless "https://${akbarvpnn}/addvless.sh"
+#wget -O addtrojan "https://${akbarvpnn}/addtrojan.sh"
 wget -O addgrpc "https://${akbarvpnn}/addgrpc.sh"
 wget -O cekgrpc "https://${akbarvpnn}/cekgrpc.sh"
 wget -O delgrpc "https://${akbarvpnn}/delgrpc.sh"
 wget -O renewgrpc "https://${akbarvpnn}/renewgrpc.sh"
-wget -O delvmess "https://${akbarvpnn}/delv2ray.sh"
-wget -O delvless "https://${akbarvpnn}/delvless.sh"
-wget -O deltrojan "https://${akbarvpnn}/deltrojan.sh"
+#wget -O delvmess "https://${akbarvpnn}/delv2ray.sh"
+#wget -O delvless "https://${akbarvpnn}/delvless.sh"
+#wget -O deltrojan "https://${akbarvpnn}/deltrojan.sh"
 wget -O cekvmess "https://${akbarvpnn}/cekv2ray.sh"
 wget -O cekvless "https://${akbarvpnn}/cekvless.sh"
 wget -O cektrojan "https://${akbarvpnn}/cektrojan.sh"
